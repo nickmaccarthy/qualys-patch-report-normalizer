@@ -10,7 +10,7 @@ Python 2.7
 #### Usage ####
 -------------------------------------------
 
-`python patch_report_parser.py --input=<inputfile.csv> --output=<outputfile.csv`
+`python patch_report_parser.py --input=<inputfile.csv> --output=<outputfile.csv>`
 
 example
 
