@@ -1,6 +1,6 @@
 ## Qualys Patch Report Normalizer ##
 
-## Normalizes a Qualys Patch Report by Patch into a single line by each patch/host ##
+#### Normalizes a Qualys Patch Report by Patch into a single line by each patch/host ####
 
 -------------------------------------------
 #### Requirements ####
